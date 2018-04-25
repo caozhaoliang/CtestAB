@@ -1,0 +1,3 @@
+[submodule "pthreadPool"]
+	path = pthreadPool
+	url = git://github.com/caozhaoliang/pthread-pool.git
